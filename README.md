@@ -1,5 +1,4 @@
-## Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="35px">
-<h2> I'm Srujan</h2>
+## Hi I'm Srujan <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="35px">
 
 [![Twitter Badge](https://img.shields.io/badge/-KamujuSrujan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/KamujuSrujan)](https://twitter.com/KamujuSrujan)
 [![Linkedin Badge](https://img.shields.io/badge/-KamujuSrujan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srujan-kamuju/)](https://www.linkedin.com/in/srujan-kamuju/)
@@ -8,8 +7,6 @@
 <img width="35%" align="right" alt="Github" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" />
 
 <br/>
-
-
 
 
 ###  👨‍🎓  About Me   
@@ -42,7 +39,9 @@
 
 <br/>
 
-<br/>
+###  [Icarus Fall](https://play.google.com/store/apps/details?id=com.Dynosis.Icarus_Fall&hl=en_IN) is available in PlayStore
+<img img width="35%" align="right" src='https://lh3.googleusercontent.com/b6kOja9K60DhHp5LAAI0UUwd-bKQQktlQ7I-aXHgqp6PVL7-OPfK5Drt82tuxWCeoA=h1024-no-tmp_icarus_fall_apk.jpg' >
+
 
 
 ⭐️ From [Kamuju Srujan](https://github.com/kamujusrujan)
