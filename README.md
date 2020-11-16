@@ -39,8 +39,9 @@
 
 <br/>
 
+<img img width="80%" align="center" src='https://lh3.googleusercontent.com/b6kOja9K60DhHp5LAAI0UUwd-bKQQktlQ7I-aXHgqp6PVL7-OPfK5Drt82tuxWCeoA=h1024-no-tmp_icarus_fall_apk.jpg' >
+
 ###  [Icarus Fall](https://play.google.com/store/apps/details?id=com.Dynosis.Icarus_Fall&hl=en_IN) is available in PlayStore
-<img img width="35%" align="right" src='https://lh3.googleusercontent.com/b6kOja9K60DhHp5LAAI0UUwd-bKQQktlQ7I-aXHgqp6PVL7-OPfK5Drt82tuxWCeoA=h1024-no-tmp_icarus_fall_apk.jpg' >
 
 
 
